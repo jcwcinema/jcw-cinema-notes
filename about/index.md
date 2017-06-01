@@ -1,10 +1,9 @@
 ---
 layout: page
-title: About the Jekyll Theme
+title: About Me
 excerpt: "So Simple is a responsive Jekyll theme for your words and images."
 modified: 2017-06-01
 ---
-###About Me###
 
 My name is Jonathan Evans, and I review films.
 
