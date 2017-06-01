@@ -3,7 +3,7 @@
   
     {
       "title"			: "Get Out",
-      "link"			: "http://localhost:4000/articles/sample-post-images/",
+      "link"			: "/articles/sample-post-images/",
       "excerpt"		: "There’s blue, there’s red and it’s everywhere."
     }
   
@@ -23,15 +23,15 @@
   
     ,{
       "title"			: "Theme Setup",
-      "link"			: "http://localhost:4000/theme-setup/",
+      "link"			: "/theme-setup/",
       "excerpt"		: "Instructions on how to install and customize the Jekyll theme So Simple."
     }
   
 
   
     ,{
-      "title"			: "About the Jekyll Theme",
-      "link"			: "http://localhost:4000/about/",
+      "title"			: "About Me",
+      "link"			: "/about/",
       "excerpt"		: "So Simple is a responsive Jekyll theme for your words and images."
     }
   
