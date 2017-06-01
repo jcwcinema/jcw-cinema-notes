@@ -15,4 +15,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 *This is the caption for the above screenshot*
 
 
-[life-of-pi]: {{ site.url }}/images/life-of-pi.png
+[life-of-pi]: {{ site.github.url }}/images/life-of-pi.png
