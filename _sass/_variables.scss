@@ -24,8 +24,9 @@ $comp-color               : adjust-hue($base-color, 180);
 $border-color             : #ddd;
 $white                    : #fff;
 $black                    : #141414;
-$body-color               : $black;
-$text-color               : $white;
+$grey                     : #343434;
+$body-color               : $white;
+$text-color               : $grey;
 $accent-color             : #3a3a3a;
 $link-color               : $white;
 
