@@ -24,11 +24,12 @@ $comp-color               : adjust-hue($base-color, 180);
 $border-color             : #ddd;
 $white                    : #fff;
 $black                    : #141414;
-$grey                     : #343434;
-$body-color               : $white;
-$text-color               : $grey;
+$dark-grey                : #1e1e1e;
+$light-grey               : #a3a3a3;
+$body-color               : $dark-grey;
+$text-color               : $light-grey;
 $accent-color             : #3a3a3a;
-$link-color               : $grey;
+$link-color               : $white;
 
 $table-border-color       : $border-color;
 $table-border             : 1px solid $table-border-color;

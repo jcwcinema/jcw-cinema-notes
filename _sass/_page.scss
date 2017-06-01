@@ -48,7 +48,7 @@
 	font-weight: 600;
 
   a {
-    color: $text-color;
+    color: $white;
     padding: 0 5px;
   }
 
@@ -86,9 +86,10 @@ span + .entry-title {
 	font-weight: 400;
 	line-height: 1;
 	letter-spacing: -3px;
+	color: $white;
 
 	a {
-		color: $black;
+		color: $white;
 		text-decoration: underline;
 	}
 
@@ -346,4 +347,8 @@ span + .entry-title {
 	tr, td, th {
 		vertical-align: middle;
 	}
+}
+
+img + em {
+	font-size: small;
 }
