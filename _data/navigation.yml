@@ -9,8 +9,8 @@
 - title: Articles
   url: /articles/
 
-- title: Gallery
-  url: /about/
+#- title: Gallery
+#  url: /gallery/
 
 - title: Lists
   url: /lists/
