@@ -3,7 +3,7 @@
   
     {
       "title"			: "Get Out",
-      "link"			: "/articles/sample-post-images/",
+      "link"			: "/articles/get-out-review/",
       "excerpt"		: "There’s blue, there’s red and it’s everywhere."
     }
   
@@ -16,16 +16,6 @@
 
   
 
-  
-
-  
-
-  
-    ,{
-      "title"			: "Theme Setup",
-      "link"			: "/theme-setup/",
-      "excerpt"		: "Instructions on how to install and customize the Jekyll theme So Simple."
-    }
   
 
   
